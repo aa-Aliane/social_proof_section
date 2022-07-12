@@ -1,1 +1,1 @@
-# My solution for social proof section challenge from "Frontend Mentor"
+# My solution for social proof section challenge from "Frontend Mentors"
