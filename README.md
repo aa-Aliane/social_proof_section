@@ -1,1 +1,1 @@
-# social_proof_section
+# My solution for social proof section challenge from "Frontend Mentor"
